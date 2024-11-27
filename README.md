@@ -1,5 +1,5 @@
 #  About Me:
-<br>Hi, I’m @farzaan3420<br> I’m interested in Software Devlopment and Data Analytics.<br>I’m currently learning Python, Java, Javascript, C#.<br> I’m looking to collaborate on hackathons, and projects.<br>How to reach me ... Email : farzaan123@hotmail.com LinkedIn: https://www.linkedin.com/in/farzaan-ali-25194a324/ Phone: 6478783420
+<br>Hi, I’m @farzaan3420<br> I’m interested in Software Devlopment and Data Analytics.<br>I’m currently learning Python, Java, Javascript, C#.<br> I’m looking to collaborate on hackathons, and projects.<br>How to reach me ... <br> Email : farzaan123@hotmail.com <br> LinkedIn: https://www.linkedin.com/in/farzaan-ali-25194a324/ <br>Phone: 6478783420
 
 
 ## Socials:
